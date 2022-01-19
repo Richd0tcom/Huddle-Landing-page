@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://richd0tcom.github.io/Huddle-Landing-page/](https://your-live-site-url.com)
 
 ## My process
 
@@ -60,7 +60,7 @@ In the future I wish to continue developing with tailwind CSS. It sort of feels 
 
 ### Useful resources
 
-- [Documentation](https://nerdcave.com/tailwind-cheat-sheet) - This is an easy to use tailwind cheat sheet I used.
+- [https://nerdcave.com/tailwind-cheat-sheet](https://nerdcave.com/tailwind-cheat-sheet) - This is an easy to use tailwind cheat sheet I used.
 
 ## Author
 
